@@ -72,6 +72,8 @@ const App: () => Node = () => {
           }}>
           <Section title="Hi CloudLand!"> The content of this App doesn't really matter
           </Section>
+          <Section title="CI & CD"> Are important for every platform!
+          </Section>
         </View>
       </ScrollView>
     </SafeAreaView>
